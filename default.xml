@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="twosixlabs" fetch="https://github.com/twosixlabs" />
-  <project path="armory" name="armory" remote="twosixlabs" branch="master" />
+  <project path="armory" name="armory" remote="twosixlabs" revision="master" />
 </manifest>
