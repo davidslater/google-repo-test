@@ -3,4 +3,5 @@
   <remote name="twosixlabs" fetch="https://github.com/twosixlabs" />
   <project path="twosixlabs__armory__master" name="armory" remote="twosixlabs" revision="master" />
   <project path="twosixlabs__armory__r0.10" name="armory" remote="twosixlabs" revision="r0.10" />
+  <project path="twosixlabs__armory__r0.10" name="armory" remote="twosixlabs" revision="cb265dfaa8c84911892aff8a5d144cf60b2d4790" />
 </manifest>
