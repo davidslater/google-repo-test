@@ -2,4 +2,5 @@
 <manifest>
   <remote name="twosixlabs" fetch="https://github.com/twosixlabs" />
   <project path="armory" name="armory" remote="twosixlabs" revision="master" />
+  <project path="armory" name="armory" remote="twosixlabs" revision="r0.10" />
 </manifest>
